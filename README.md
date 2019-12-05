@@ -1,4 +1,4 @@
-x# Taller git uah  
+# Taller git uah  
 ## Otra linea
 ### Otra mas
 aqui otra cosa
